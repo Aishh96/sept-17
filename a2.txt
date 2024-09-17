@@ -1,1 +1,5 @@
+dcd<<<<<< HEAD
 a2 modified again
+=======
+a2 modified
+>>>>>>> 3214d06 (commit3 a2 modified)
